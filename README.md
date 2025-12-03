@@ -36,7 +36,7 @@ Mac / Linux:
 source venv/bin/activate
 
 3️⃣ Install FastAPI and dependencies:
-pip install pip install "fastapi[standard]" or pip install  fastapi uvicorn
+pip install "fastapi[standard]" or pip install  fastapi uvicorn
 
 4️⃣ Install requirements.txt:
 pip install -r requirements.txt
