@@ -1,4 +1,4 @@
-##Project Structure
+## Project Structure
 
 project/
 │── frontend/
@@ -9,7 +9,7 @@ project/
 └── README.md
 
 
-###**Frontend — Setup**
+### **Frontend — Setup**
 
 1️⃣ Install dependencies:
 cd frontend
@@ -19,7 +19,7 @@ npm install
 npm run dev      # or: npm start
 
 
-###**Backend (FastAPI) — Setup**
+### **Backend (FastAPI) — Setup**
 
 1️⃣ Install dependencies:
 cd backend
