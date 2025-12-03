@@ -10,6 +10,7 @@ project/
 
 
 Frontend — Setup
+
 1️⃣ Install dependencies:
 cd frontend
 npm install
