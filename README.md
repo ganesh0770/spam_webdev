@@ -1,4 +1,4 @@
-Project Structure
+##Project Structure
 
 project/
 │── frontend/
@@ -9,7 +9,7 @@ project/
 └── README.md
 
 
-Frontend — Setup
+###**Frontend — Setup**
 
 1️⃣ Install dependencies:
 cd frontend
@@ -19,30 +19,30 @@ npm install
 npm run dev      # or: npm start
 
 
-Backend (FastAPI) — Setup 
+###**Backend (FastAPI) — Setup**
 
 1️⃣ Install dependencies:
 cd backend
 
-1️⃣ Create a virtual environment
+2️⃣ Create a virtual environment
 Run this inside your backend folder:
 python -m venv venv
 
 
-2️⃣ Activate the virtual environment:
+3️⃣ Activate the virtual environment:
 Windows:
 venv\Scripts\activate
 
 Mac / Linux:
 source venv/bin/activate
 
-3️⃣ Install FastAPI and dependencies:
+4️⃣ Install FastAPI and dependencies:
 pip install "fastapi[standard]" or pip install  fastapi uvicorn
 
-4️⃣ Install requirements.txt:
+5️⃣ Install requirements.txt:
 pip install -r requirements.txt
 
-5️⃣ Running FastAPI sever in venv:
+6️⃣ Running FastAPI sever in venv:
 fastapi dev main.py or uvicorn main:app --reload
 
 
