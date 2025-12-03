@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+
+
+.tw{
+    @apply text-white
+}
