@@ -21,7 +21,7 @@ npm run dev      # or: npm start
 
 ### **Backend (FastAPI) — Setup**
 
-1️⃣ Install dependencies:
+1️⃣ open directory:
 cd backend
 
 2️⃣ Create a virtual environment
